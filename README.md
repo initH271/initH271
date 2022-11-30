@@ -24,6 +24,11 @@ Here are some ideas to get you started:
 <span>&emsp;&emsp;</span>
 </div>
 
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=initH271" />
+</div>
+
+
 ### 📊 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
 
@@ -42,9 +47,6 @@ C                  81 hrs 1 min    >>-----------------------   08.62 %
 
 <!--END_SECTION:waka-->
 
-<div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=initH271" />
-</div>
 
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=initH271&theme=minimal" />
