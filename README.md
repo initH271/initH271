@@ -33,16 +33,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 April 2020 - To: 29 November 2022
+From: 30 October 2022 - To: 29 November 2022
 
-Total Time: 940 hrs 23 mins
+Total Time: 20 hrs 58 mins
 
-Python             253 hrs 6 mins  >>>>>>>------------------   26.92 %
-Java               157 hrs 18 mins >>>>---------------------   16.73 %
-Markdown           117 hrs 51 mins >>>----------------------   12.53 %
-JavaScript         89 hrs 43 mins  >>-----------------------   09.54 %
-C++                86 hrs 27 mins  >>-----------------------   09.19 %
-C                  81 hrs 1 min    >>-----------------------   08.62 %
+Python        8 hrs 9 mins    ##########---------------   38.88 %
+C             6 hrs 30 mins   ########-----------------   31.06 %
+C++           2 hrs 20 mins   ###----------------------   11.19 %
+JSON          1 hr 18 mins    ##-----------------------   06.25 %
+Markdown      59 mins         #------------------------   04.74 %
+Java          30 mins         #------------------------   02.40 %
 ```
 
 <!--END_SECTION:waka-->
