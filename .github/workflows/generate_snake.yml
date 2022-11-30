@@ -4,6 +4,7 @@ name: Generate Snake
 
 
 on:
+  workflow_dispatch:
   watch:
     types: started
   schedule:
