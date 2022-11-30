@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm H271
+
+
 
 <!--
 **initH271/initH271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,5 +31,9 @@ Here are some ideas to get you started:
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=initH271&theme=minimal" />
 </div>
+
+### 📊 This Week I Spent My Time On:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/initH271/initH271/main/assets/github-contribution-grid-snake.svg" ></div>
