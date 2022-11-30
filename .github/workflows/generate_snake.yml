@@ -3,8 +3,8 @@ name: Generate Snake
 on: 
   watch: 
     types: started 
-    schedule: 
-      - cron: '0 0 * * *' 
+  schedule: 
+    - cron: '0 0 * * *' 
 jobs: 
   build: 
     runs-on: ubuntu-latest 
