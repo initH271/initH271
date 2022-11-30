@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<span>  </span>
+<span>  
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=initH271" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=initH271&layout=compact&langs_count=8" />
-<span>  </span>
+ </span>
 </div>
 
 <div align="center">
