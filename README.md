@@ -26,6 +26,20 @@ Here are some ideas to get you started:
 
 ### 📊 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
+
+```text
+From: 08 April 2020 - To: 29 November 2022
+
+Total Time: 940 hrs 23 mins
+
+Python             253 hrs 6 mins  >>>>>>>------------------   26.92 %
+Java               157 hrs 18 mins >>>>---------------------   16.73 %
+Markdown           117 hrs 51 mins >>>----------------------   12.53 %
+JavaScript         89 hrs 43 mins  >>-----------------------   09.54 %
+C++                86 hrs 27 mins  >>-----------------------   09.19 %
+C                  81 hrs 1 min    >>-----------------------   08.62 %
+```
+
 <!--END_SECTION:waka-->
 
 <div align="center">
