@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <span>&emsp;&emsp;</span>
 </div>
 
-### 📊 This Month I Spent My Time On:
+### 📊 本月统计:
 <!--START_SECTION:waka-->
 
 ```text
