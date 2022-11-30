@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=initH271&theme=minimal" />
 </div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/initH271/initH271/main/assets/github-contribution-grid-snake.svg" ></div>
