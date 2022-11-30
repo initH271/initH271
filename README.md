@@ -24,11 +24,6 @@ Here are some ideas to get you started:
 <span>&emsp;&emsp;</span>
 </div>
 
-<div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=initH271" />
-</div>
-
-
 ### 📊 This Month I Spent My Time On:
 <!--START_SECTION:waka-->
 
