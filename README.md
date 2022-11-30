@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--状态卡片 https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md-->
 <div align="center">
 <span>&emsp;&emsp;</span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=initH271&layout=compact" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=initH271&layout=compact&langs_count=8" />
+<img height="170px" width="45%" src="https://github-readme-stats.vercel.app/api?username=initH271&layout=compact" /><span>&emsp;&emsp;</span><img height="170px" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=initH271&layout=compact&langs_count=8" />
 <span>&emsp;&emsp;</span>
 </div>
 
