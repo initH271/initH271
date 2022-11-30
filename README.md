@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 <span>&emsp;&emsp;</span>
 </div>
 
+### 📊 This Week I Spent My Time On:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=initH271" />
 </div>
@@ -31,9 +35,5 @@ Here are some ideas to get you started:
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=initH271&theme=minimal" />
 </div>
-
-### 📊 This Week I Spent My Time On:
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/initH271/initH271/main/assets/github-contribution-grid-snake.svg" ></div>
