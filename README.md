@@ -28,16 +28,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 November 2022 - To: 01 December 2022
+From: 02 November 2022 - To: 02 December 2022
 
-Total Time: 12 hrs 52 mins
+Total Time: 15 hrs 38 mins
 
-C++           5 hrs 46 mins   ###########--------------   44.86 %
-Python        1 hr 54 mins    ####---------------------   14.89 %
-C             1 hr 52 mins    ####---------------------   14.50 %
-Markdown      59 mins         ##-----------------------   07.72 %
-JSON          53 mins         ##-----------------------   06.98 %
-TypeScript    18 mins         #------------------------   02.40 %
+C++              8 hrs 47 mins   ##############-----------   56.15 %
+Python           1 hr 54 mins    ###----------------------   12.25 %
+C                1 hr 39 mins    ###----------------------   10.56 %
+Markdown         1 hr 4 mins     ##-----------------------   06.82 %
+CMake            28 mins         #------------------------   02.99 %
+ObjectiveC       23 mins         #------------------------   02.53 %
 ```
 
 <!--END_SECTION:waka-->
