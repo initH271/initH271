@@ -28,16 +28,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 November 2022 - To: 28 December 2022
+From: 29 November 2022 - To: 29 December 2022
 
-Total Time: 23 hrs 5 mins
+Total Time: 22 hrs 50 mins
 
-Go               11 hrs 7 mins   ############-------------   48.18 %
-C++              9 hrs 38 mins   ##########---------------   41.71 %
-CMake            47 mins         #------------------------   03.43 %
-ObjectiveC       24 mins         -------------------------   01.76 %
-C                23 mins         -------------------------   01.72 %
-Rust             8 mins          -------------------------   00.62 %
+Go               11 hrs 7 mins   ############-------------   48.73 %
+C++              9 hrs 38 mins   ###########--------------   42.19 %
+CMake            47 mins         #------------------------   03.46 %
+ObjectiveC       24 mins         -------------------------   01.78 %
+C                23 mins         -------------------------   01.74 %
+Rust             8 mins          -------------------------   00.63 %
 ```
 
 <!--END_SECTION:waka-->
