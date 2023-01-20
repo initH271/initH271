@@ -28,16 +28,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 December 2022 - To: 18 January 2023
+From: 20 December 2022 - To: 19 January 2023
 
-Total Time: 39 mins
+Total Time: 24 mins
 
-C                19 mins         ############-------------   49.05 %
-CMake            7 mins          ####---------------------   17.94 %
-C++              6 mins          ####---------------------   15.79 %
-ObjectiveC       3 mins          ##-----------------------   08.91 %
-Go               1 min           #------------------------   04.65 %
-Markdown         1 min           #------------------------   03.38 %
+C                19 mins         ####################-----   78.01 %
+ObjectiveC       3 mins          ###----------------------   13.84 %
+Go               1 min           ##-----------------------   07.40 %
+GitIgnore file   0 secs          -------------------------   00.46 %
+CMake            0 secs          -------------------------   00.30 %
 ```
 
 <!--END_SECTION:waka-->
