@@ -28,13 +28,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 January 2023 - To: 02 February 2023
-
-Total Time: 4 mins
-
-ObjectiveC   3 mins          #################--------   69.54 %
-C            1 min           ########-----------------   30.40 %
-CMake        0 secs          -------------------------   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
