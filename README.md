@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 January 2023 - To: 19 February 2023
+From: 21 January 2023 - To: 20 February 2023
 
 Total Time: 0 secs
 
