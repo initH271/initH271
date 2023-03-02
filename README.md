@@ -28,11 +28,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 January 2023 - To: 28 February 2023
+From: 30 January 2023 - To: 01 March 2023
 
-Total Time: 0 secs
+Total Time: 2 hrs 8 mins
 
-No activity tracked
+Java         1 hr 27 mins    #################--------   68.35 %
+JSON         38 mins         #######------------------   29.99 %
+Markdown     1 min           -------------------------   01.28 %
+Other        0 secs          -------------------------   00.33 %
 ```
 
 <!--END_SECTION:waka-->
