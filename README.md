@@ -28,15 +28,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 February 2023 - To: 14 March 2023
+From: 13 February 2023 - To: 15 March 2023
 
-Total Time: 4 hrs 57 mins
+Total Time: 5 hrs 32 mins
 
-Java         3 hrs 56 mins   ####################-----   79.31 %
-JSON         40 mins         ###----------------------   13.53 %
-Markdown     19 mins         ##-----------------------   06.39 %
-C++          1 min           -------------------------   00.61 %
-Other        0 secs          -------------------------   00.14 %
+Java         4 hrs 12 mins   ###################------   75.91 %
+JSON         49 mins         ####---------------------   14.97 %
+Markdown     19 mins         #------------------------   05.99 %
+XML          4 mins          -------------------------   01.34 %
+Vue.js       3 mins          -------------------------   01.10 %
+C++          1 min           -------------------------   00.54 %
 ```
 
 <!--END_SECTION:waka-->
