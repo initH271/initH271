@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 🖥  Software developer
+- 🎓 Studying Computer Science at HUFE, class of 2024 
+
 <!--状态卡片 https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md-->
 <div align="center">
 <span>&emsp;&emsp;</span>
