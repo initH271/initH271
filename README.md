@@ -32,16 +32,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 March 2023 - To: 17 April 2023
+From: 19 March 2023 - To: 18 April 2023
 
-Total Time: 11 hrs 26 mins
+Total Time: 9 hrs 50 mins
 
-Java             3 hrs 55 mins   #########----------------   34.34 %
-C++              1 hr 45 mins    ####---------------------   15.37 %
-JSON             1 hr 12 mins    ###----------------------   10.54 %
-TypeScript       1 hr 10 mins    ###----------------------   10.30 %
-JavaScript       1 hr 6 mins     ##-----------------------   09.69 %
-CMake            30 mins         #------------------------   04.51 %
+Java             3 hrs 41 mins   #########----------------   37.52 %
+C++              1 hr 45 mins    ####---------------------   17.87 %
+JavaScript       1 hr 6 mins     ###----------------------   11.26 %
+JSON             57 mins         ##-----------------------   09.71 %
+TypeScript       38 mins         ##-----------------------   06.57 %
+CMake            30 mins         #------------------------   05.25 %
 ```
 
 <!--END_SECTION:waka-->
