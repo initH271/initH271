@@ -32,15 +32,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 April 2023 - To: 21 May 2023
+From: 22 April 2023 - To: 22 May 2023
 
-Total Time: 22 hrs 40 mins
+Total Time: 24 hrs 6 mins
 
-Go               4 hrs 50 mins   #####--------------------   21.34 %
-C++              4 hrs 33 mins   #####--------------------   20.09 %
-Other            4 hrs 20 mins   #####--------------------   19.19 %
-TypeScript       3 hrs 8 mins    ###----------------------   13.84 %
-Python           1 hr 39 mins    ##-----------------------   07.29 %
+Go               6 hrs 6 mins    ######-------------------   25.32 %
+C++              4 hrs 33 mins   #####--------------------   18.90 %
+Other            4 hrs 20 mins   #####--------------------   18.04 %
+TypeScript       3 hrs 8 mins    ###----------------------   13.01 %
+Python           1 hr 50 mins    ##-----------------------   07.63 %
 ```
 
 <!--END_SECTION:waka-->
