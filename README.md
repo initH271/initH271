@@ -46,8 +46,10 @@ Python           11 mins         #------------------------   02.67 %
 <!--END_SECTION:waka-->
 
 
+<!--
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=initH271&theme=minimal" />
 </div>
 
 <div align="center"><img src="https://raw.githubusercontent.com/initH271/initH271/main/assets/github-contribution-grid-snake.svg" ></div>
+-->
