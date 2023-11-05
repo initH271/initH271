@@ -32,15 +32,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 October 2023 - To: 03 November 2023
+From: 05 October 2023 - To: 04 November 2023
 
-Total Time: 35 hrs 40 mins
+Total Time: 45 hrs 35 mins
 
-Python                 9 hrs 51 mins   #######------------------   27.62 %
-Java                   9 hrs 18 mins   #######------------------   26.08 %
-XML                    4 hrs 15 mins   ###----------------------   11.95 %
-SQL                    3 hrs 24 mins   ##-----------------------   09.55 %
-YAML                   2 hrs 25 mins   ##-----------------------   06.80 %
+Java                   16 hrs 57 mins  #########----------------   37.18 %
+Python                 9 hrs 51 mins   #####--------------------   21.61 %
+XML                    5 hrs 5 mins    ###----------------------   11.18 %
+SQL                    3 hrs 25 mins   ##-----------------------   07.52 %
+YAML                   3 hrs 16 mins   ##-----------------------   07.20 %
 ```
 
 <!--END_SECTION:waka-->
