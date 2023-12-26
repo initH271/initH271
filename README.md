@@ -32,15 +32,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 November 2023 - To: 24 December 2023
+From: 25 November 2023 - To: 25 December 2023
 
-Total Time: 82 hrs 46 mins
+Total Time: 72 hrs 37 mins
 
-Dart             57 hrs 49 mins  #################--------   69.87 %
-Go               24 hrs 12 mins  #######------------------   29.24 %
-Python           15 mins         -------------------------   00.30 %
-YAML             10 mins         -------------------------   00.21 %
-Git              7 mins          -------------------------   00.15 %
+Dart             47 hrs 18 mins  ################---------   65.14 %
+Go               24 hrs 12 mins  ########-----------------   33.32 %
+Python           15 mins         -------------------------   00.35 %
+CMakeLists.txt   10 mins         -------------------------   00.25 %
+YAML             10 mins         -------------------------   00.24 %
 ```
 
 <!--END_SECTION:waka-->
