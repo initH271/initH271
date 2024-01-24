@@ -32,15 +32,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2023 - To: 22 January 2024
+From: 24 December 2023 - To: 23 January 2024
 
-Total Time: 31 hrs 22 mins
+Total Time: 32 hrs 18 mins
 
-Dart              22 hrs 40 mins  ##################-------   72.28 %
-Go                2 hrs 56 mins   ##-----------------------   09.39 %
-Java              1 hr 55 mins    ##-----------------------   06.11 %
-YAML              1 hr 45 mins    #------------------------   05.59 %
-XML               52 mins         #------------------------   02.81 %
+Dart              22 hrs 40 mins  ##################-------   70.18 %
+Go                2 hrs 34 mins   ##-----------------------   07.97 %
+Java              1 hr 55 mins    #------------------------   05.94 %
+YAML              1 hr 45 mins    #------------------------   05.43 %
+Astro             57 mins         #------------------------   02.95 %
 ```
 
 <!--END_SECTION:waka-->
