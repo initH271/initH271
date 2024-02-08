@@ -32,15 +32,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 January 2024 - To: 06 February 2024
+From: 08 January 2024 - To: 07 February 2024
 
-Total Time: 26 hrs 8 mins
+Total Time: 25 hrs 29 mins
 
-Go                8 hrs 9 mins    ########-----------------   31.22 %
-TypeScript        5 hrs           #####--------------------   19.13 %
-Astro             2 hrs 58 mins   ###----------------------   11.36 %
-C                 2 hrs 49 mins   ###----------------------   10.79 %
-Dart              1 hr 29 mins    #------------------------   05.73 %
+Go                9 hrs 36 mins   #########----------------   37.71 %
+TypeScript        5 hrs           #####--------------------   19.62 %
+Astro             2 hrs 58 mins   ###----------------------   11.65 %
+C                 2 hrs 49 mins   ###----------------------   11.07 %
+Dart              47 mins         #------------------------   03.10 %
 ```
 
 <!--END_SECTION:waka-->
