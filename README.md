@@ -32,15 +32,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 January 2024 - To: 28 February 2024
+From: 30 January 2024 - To: 29 February 2024
 
-Total Time: 20 hrs 31 mins
+Total Time: 17 hrs 26 mins
 
-Go                17 hrs 11 mins  #####################----   83.75 %
-Dart              47 mins         #------------------------   03.85 %
-C                 26 mins         #------------------------   02.12 %
-Groovy            24 mins         -------------------------   01.98 %
-Properties        23 mins         -------------------------   01.89 %
+Go               16 hrs 39 mins  ########################-   95.55 %
+XML              12 mins         -------------------------   01.22 %
+Java             10 mins         -------------------------   00.98 %
+Properties       8 mins          -------------------------   00.84 %
+Go Template      4 mins          -------------------------   00.43 %
 ```
 
 <!--END_SECTION:waka-->
