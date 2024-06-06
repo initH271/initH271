@@ -32,15 +32,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2024 - To: 04 June 2024
+From: 06 May 2024 - To: 05 June 2024
 
-Total Time: 23 hrs 19 mins
+Total Time: 25 hrs 41 mins
 
-Go                13 hrs 33 mins  ###############----------   58.13 %
-YAML              4 hrs 5 mins    ####---------------------   17.57 %
-Java              3 hrs 4 mins    ###----------------------   13.18 %
-PlantUML file     35 mins         #------------------------   02.50 %
-Lua               30 mins         #------------------------   02.19 %
+Go                13 hrs 33 mins  #############------------   52.79 %
+YAML              4 hrs 5 mins    ####---------------------   15.95 %
+Java              3 hrs 4 mins    ###----------------------   11.97 %
+TypeScript        1 hr 37 mins    ##-----------------------   06.34 %
+PlantUML file     35 mins         #------------------------   02.27 %
 ```
 
 <!--END_SECTION:waka-->
