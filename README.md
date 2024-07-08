@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2024 - To: 06 July 2024
+From: 07 June 2024 - To: 07 July 2024
 
-Total Time: 37 hrs 43 mins
+Total Time: 37 hrs 42 mins
 
 Go                   17 hrs 10 mins  ###########--------------   45.53 %
 TypeScript           7 hrs 41 mins   #####--------------------   20.38 %
