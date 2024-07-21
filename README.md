@@ -32,15 +32,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 June 2024 - To: 19 July 2024
+From: 20 June 2024 - To: 20 July 2024
 
-Total Time: 44 hrs 36 mins
+Total Time: 43 hrs 28 mins
 
-Go                29 hrs 34 mins  #################--------   66.31 %
-YAML              3 hrs 17 mins   ##-----------------------   07.36 %
-Makefile          2 hrs 31 mins   #------------------------   05.65 %
-Markdown          2 hrs 20 mins   #------------------------   05.25 %
-TypeScript        1 hr 9 mins     #------------------------   02.59 %
+Go                29 hrs 34 mins  #################--------   68.02 %
+YAML              3 hrs 16 mins   ##-----------------------   07.55 %
+Makefile          2 hrs 31 mins   #------------------------   05.80 %
+Markdown          2 hrs 20 mins   #------------------------   05.38 %
+HTML              52 mins         #------------------------   02.02 %
 ```
 
 <!--END_SECTION:waka-->
