@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-[![wakatime](https://wakatime.com/badge/user/be716512-8899-4dc8-83d1-c6e3772e202d.svg)](https://wakatime.com/@be716512-8899-4dc8-83d1-c6e3772e202d)
+[![wakatime](https://wakatime.com/badge/user/be716512-8899-4dc8-83d1-c6e3772e202d.svg?style=for-the-badge)](https://wakatime.com/@be716512-8899-4dc8-83d1-c6e3772e202d)
 - 🖥  Software developer
 - 🎓 Studying Computer Science at HUFE, class of 2024
 
