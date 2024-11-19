@@ -34,15 +34,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 October 2024 - To: 17 November 2024
+From: 19 October 2024 - To: 18 November 2024
 
-Total Time: 85 hrs 52 mins
+Total Time: 79 hrs 41 mins
 
-Python            44 hrs 48 mins  #############------------   52.17 %
-TypeScript        35 hrs 29 mins  ##########---------------   41.33 %
-JavaScript        1 hr 28 mins    -------------------------   01.71 %
-JSON              51 mins         -------------------------   01.00 %
-Java              47 mins         -------------------------   00.91 %
+Python            44 hrs 48 mins  ##############-----------   56.22 %
+TypeScript        31 hrs 7 mins   ##########---------------   39.06 %
+JavaScript        1 hr 19 mins    -------------------------   01.67 %
+Text              39 mins         -------------------------   00.82 %
+JSON              35 mins         -------------------------   00.75 %
 ```
 
 <!--END_SECTION:waka-->
