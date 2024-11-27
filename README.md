@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 [![wakatime](https://wakatime.com/badge/user/be716512-8899-4dc8-83d1-c6e3772e202d.svg?style=for-the-badge)](https://wakatime.com/@be716512-8899-4dc8-83d1-c6e3772e202d)
 - 🖥  Software developer
-- 🎓 Studying Computer Science at HUFE, class of 2024
+- 🔭 I’m proficient in React, Node.js, and Go, with hands-on experience in building high-performance web applications and database design.
+- 😄 I love the creative aspect of coding. 
 
 <!--状态卡片 https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md-->
 <div align="center">
