@@ -35,15 +35,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 May 2025 - To: 25 June 2025
+From: 27 May 2025 - To: 26 June 2025
 
-Total Time: 161 hrs 22 mins
+Total Time: 160 hrs 49 mins
 
-TypeScript                 88 hrs 34 mins  ##############-----------   54.89 %
-SCSS                       15 hrs 58 mins  ##-----------------------   09.90 %
-CSS                        9 hrs 39 mins   #------------------------   05.98 %
-Bash                       9 hrs 3 mins    #------------------------   05.61 %
-Less                       7 hrs 34 mins   #------------------------   04.69 %
+TypeScript                 87 hrs 25 mins  ##############-----------   54.36 %
+SCSS                       15 hrs 58 mins  ##-----------------------   09.94 %
+CSS                        9 hrs 18 mins   #------------------------   05.79 %
+Bash                       9 hrs 3 mins    #------------------------   05.63 %
+Less                       8 hrs 40 mins   #------------------------   05.39 %
 ```
 
 <!--END_SECTION:waka-->
