@@ -35,15 +35,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 August 2025 - To: 28 September 2025
+From: 30 August 2025 - To: 29 September 2025
 
-Total Time: 29 hrs 53 mins
+Total Time: 30 hrs 33 mins
 
-TypeScript          24 hrs 44 mins  #####################----   82.80 %
-Kotlin              2 hrs 11 mins   ##-----------------------   07.35 %
-Markdown            46 mins         #------------------------   02.61 %
-SCSS                45 mins         #------------------------   02.54 %
-JSON                44 mins         #------------------------   02.49 %
+TypeScript          25 hrs 8 mins   #####################----   82.27 %
+Kotlin              2 hrs 11 mins   ##-----------------------   07.19 %
+Markdown            1 hr 3 mins     #------------------------   03.45 %
+SCSS                45 mins         #------------------------   02.48 %
+JSON                44 mins         #------------------------   02.44 %
 ```
 
 <!--END_SECTION:waka-->
