@@ -35,13 +35,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 January 2026 - To: 20 February 2026
+From: 22 January 2026 - To: 21 February 2026
 
-Total Time: 17 mins
+Total Time: 0 secs
 
-Bash    17 mins               ########################-   96.07 %
-Text    0 secs                #------------------------   03.61 %
-Other   0 secs                -------------------------   00.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
