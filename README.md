@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2026 - To: 05 July 2026
+From: 06 June 2026 - To: 06 July 2026
 
 Total Time: 0 secs
 
