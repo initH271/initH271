@@ -41,7 +41,15 @@ Backend-first · frontend-capable · ML / CV background · building agents
 
 <!-- WakaTime Action 会自动改写 START/END 之间的内容 -->
 <!--START_SECTION:waka-->
-_No tracked coding activity for the last 30 days — reconnect WakaTime or wait for the next workflow run._
+
+```txt
+From: 30 June 2026 - To: 30 July 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
