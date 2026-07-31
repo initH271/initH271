@@ -8,8 +8,8 @@
 
 [![WakaTime](https://wakatime.com/badge/user/be716512-8899-4dc8-83d1-c6e3772e202d.svg?style=for-the-badge)](https://wakatime.com/@be716512-8899-4dc8-83d1-c6e3772e202d)
 [![Blog](https://img.shields.io/badge/Blog-blog.inith271.top-blue?style=for-the-badge)](https://blog.inith271.top)
-[![Acti](https://img.shields.io/badge/Acti-Agentic%20Keyboard-111111?style=for-the-badge)](https://openacti.com/)
-[![Product Hunt](https://img.shields.io/badge/Product%20Hunt-@inith271-da552f?style=for-the-badge&logo=producthunt&logoColor=white)](https://www.producthunt.com/@inith271)
+[![Acti](./assets/acti-badge.svg)](https://openacti.com/)
+[![Product Hunt](https://img.shields.io/badge/Product%20Hunt-%40inith271-da552f?style=for-the-badge&logo=producthunt&logoColor=white)](https://www.producthunt.com/@inith271)
 
 ---
 
