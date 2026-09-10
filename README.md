@@ -43,15 +43,15 @@ Backend-first · frontend-capable · ML / CV background · building agents
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2026 - To: 08 September 2026
+From: 10 August 2026 - To: 09 September 2026
 
-Total Time: 188 hrs 38 mins
+Total Time: 182 hrs 8 mins
 
-TypeScript        72 hrs 42 mins        ##########---------------   38.54 %
-Markdown          37 hrs 15 mins        #####--------------------   19.75 %
-Other             35 hrs 14 mins        #####--------------------   18.68 %
-Swift             9 hrs 56 mins         #------------------------   05.27 %
-YAML              7 hrs 2 mins          #------------------------   03.73 %
+TypeScript        64 hrs 41 mins        #########----------------   35.51 %
+Other             37 hrs 25 mins        #####--------------------   20.55 %
+Markdown          36 hrs 9 mins         #####--------------------   19.85 %
+Swift             9 hrs 56 mins         #------------------------   05.46 %
+YAML              6 hrs 13 mins         #------------------------   03.42 %
 ```
 
 <!--END_SECTION:waka-->
